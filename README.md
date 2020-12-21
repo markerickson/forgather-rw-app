@@ -1,5 +1,5 @@
 # forgather-rw-app
-creating a simple and easy service for organizing stuff
+creating a simple and easy service for organizing lego peices in sets
 # Redwood
 
 > **WARNING:** RedwoodJS software has not reached a stable version 1.0 and should not be considered suitable for production use. In the "make it work; make it right; make it fast" paradigm, Redwood is in the later stages of the "make it work" phase.
