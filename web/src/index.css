@@ -1,0 +1,17 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+}
+
+.flex-vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 3px;
+  padding: 2px;
+  font-size: 13px;
+}
